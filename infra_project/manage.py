@@ -3,7 +3,6 @@
 import os
 import sys
 
-# Комментарий, чтобы были изменения, которые можно запушить
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'infra_project.settings')
